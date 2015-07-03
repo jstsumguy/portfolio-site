@@ -13,12 +13,16 @@ html {
 	margin-right: 5px;
 	font-size: 1.5em;
 }
-
 .main-img {
 	margin-top: -20px;
 }
+
+/* About Page */
+.about-img {
+	margin-top: -18px;
+}
 .section {
-	margin-top: 40px;
+	margin-bottom: 30px;
 	width: 900px;
 	margin-right: auto;
 	margin-left: auto;
@@ -40,5 +44,13 @@ html {
 	color: #35ff59;
 	text-decoration: none;
 }
+
+/* Portfolio Page */
+.work {
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 
 
