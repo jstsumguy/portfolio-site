@@ -51,6 +51,29 @@ html {
 	margin-right: auto;
 	margin-left: auto;
 }
+.work-item-container {
+	margin-bottom: 110px;
+}
+.work-item-container h2 {
+	font-size: 4em;
+	text-align: center;
+	color: white;
+}
+.work-item-description {
+	font-size: 1.6em;
+	line-height: 1.4em;
+	background-color: white;
+	border-radius: 15px;
+	margin-bottom: 50px;
+	padding: 15px;
+}
+.work-item p {
+	border-radius: 15px;
+	margin-top: 2px;
+	margin-bottom: 50px;
+	background-color: white;
+	padding: 15px;
+}
 
 
 
