@@ -3,33 +3,29 @@
 <html>
 <head>
 <title></title>
-<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="./styles/index.css" />
 </head>
-<body ng-app="app">
+<body ng-app="app" ng-controller="MainController">
 
-<div class="main-container" ng-controller="MainController">
+<div class="main-container">
 	<header>
-		<nav class="navbar transparent navbar-default">
-			<div class="container">
-				<ul class="nav navbar-nav">
-					<li><a href="#"><i class="fa fa-home"></i> Home</a></li>
-					<li><a href="#about"><i class="fa fa-shield"></i> About</a></li>
-					<li><a href="#work"><i class="fa fa-shield"></i> Work</a></li>
-					<li><a href="#contact"><i class="fa fa-comment"></i> Contact</a></li>
+		<div class="navbar">
+			<div class="nav-list-container">
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#work">Work</a></li>
+					<li><a href="#contact">Contact</a></li>
 				</ul>
 			</div>
-		</nav>
+		</div>
 	</header>
 <div id="main">
-	<div ng-view>
-	<!-- Partials go here -->
+	<div ng-view class="content">
 	</div>
 </div>	
 </div>
 <!-- Scripts/Plugins -->
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script type="text/javascript" src="./scripts/jquery.backstretch.min.js"></script>
 <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.2.18/angular.js'></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
 <script type="text/javascript" src="./scripts/app.js"></script>

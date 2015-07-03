@@ -2,16 +2,17 @@
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
-<path fill="#35FF59" d="M847.5,503H144.3c-11.1,0-20.1-7.7-20.1-17V49c0-9.4,9-17,20.1-17h703.4c11.1,0,20.1,7.7,20.1,17v437.1
-	C867.6,495.3,858.6,503,847.5,503z"/>
+<path fill="#35FF59" d="M933.8,560H25.9C11.6,560,0,550.8,0,539.8V20.2C0,9,11.6,0,25.9,0h908.1C948.4,0,960,9.2,960,20.2v519.7
+	C959.7,550.8,948.1,560,933.8,560z"/>
 <circle fill="#FFFFFF" cx="494.5" cy="391.7" r="156.5"/>
 <ellipse fill="#35FF59" cx="581.7" cy="343.5" rx="29.6" ry="25.3"/>
 <ellipse fill="#35FF59" cx="420.7" cy="343.5" rx="29.6" ry="25.3"/>
 <ellipse fill="#FFFFFF" cx="318.2" cy="135.5" rx="174.2" ry="72.5"/>
 <polygon fill="#FFFFFF" points="404.7,239.4 271.3,191.3 379.7,99.8 "/>
-<text transform="matrix(1 0 0 1 205 141.7931)" font-family="'MyriadPro-Regular'" font-size="28">I am Will Redington</text>
+<text transform="matrix(1 0 0 1 205 141.7931)" font-family="'ArialMT'" font-size="28">I am Will Redington</text>
 <ellipse fill="#35FF59" cx="496" cy="439" rx="98" ry="28"/>
 <ellipse fill="#FFFFFF" cx="693.8" cy="170.1" rx="150.8" ry="75.9"/>
 <polygon fill="#FFFFFF" points="618.9,271.6 734.4,232.3 640.6,157.7 "/>
-<text transform="matrix(1 0 0 1 581.7 157.6534)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="28">I develop software </tspan><tspan x="0" y="33.6" font-family="'MyriadPro-Regular'" font-size="28">and build websites.</tspan></text>
+<text transform="matrix(1 0 0 1 581.7 157.6534)" font-family="'ArialMT'" font-size="28">I develop software </text>
+<text transform="matrix(1 0 0 1 581.7 191.2534)" font-family="'ArialMT'" font-size="28">and build websites.</text>
 </svg>
