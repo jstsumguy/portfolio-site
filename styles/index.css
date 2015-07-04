@@ -22,27 +22,23 @@ html {
 	margin-top: -18px;
 }
 .section {
-	margin-bottom: 30px;
 	width: 900px;
 	margin-right: auto;
 	margin-left: auto;
+}
+.section p {
+	font-size: 1.6em;
+	line-height: 1.4em;
 	background-color: white;
-	padding: 25px;
 	border-radius: 15px;
-	color: black;
+	margin-bottom: 50px;
+	padding: 15px;
 }
 .section h2 {
 	text-align: center;
 	font-size: 3em;
 	margin-top: 5px;
 	margin-bottom: 15px;
-}
-.section article {
-	line-height: 2.9em;
-}
-.section article a {
-	color: #35ff59;
-	text-decoration: none;
 }
 
 /* Portfolio Page */
@@ -90,6 +86,22 @@ html {
 }
 #linkedin a img {
 	height: 40px;
+}
+#google {
+	position: fixed;
+	top: 10px;
+	right: 110px;
+}
+#google img {
+	height: 40px;
+}
+#resume {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#resume img {
+	width: 100%;
 }
 
 
