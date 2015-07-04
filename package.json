@@ -1,5 +1,13 @@
 {
   "name": "personalsite",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.12.4"
+  },
   "dependencies": {
     "body-parser": "^1.13.1",
     "express": "^4.13.0"
