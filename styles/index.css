@@ -74,6 +74,23 @@ html {
 	background-color: white;
 	padding: 15px;
 }
+/* github icon */
+#github {
+	position: fixed;
+	top: 10px;
+	right: 15px;
+}
+#github a img {
+	height: 40px;
+}
+#linkedin {
+	position: fixed;
+	top: 10px;
+	right: 60px;
+}
+#linkedin a img {
+	height: 40px;
+}
 
 
 
